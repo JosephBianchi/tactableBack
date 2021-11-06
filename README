@@ -1,0 +1,4 @@
+# npm run build - to compile ts
+# npm run start - to start
+
+* npm run clean - to remove compiled js
