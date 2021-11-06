@@ -1,4 +1,10 @@
+# npm install - install dependencies
 # npm run build - to compile ts
 # npm run start - to start
 
 * npm run clean - to remove compiled js
+
+
+
+* npm run test - run test suite
+note - tests WIP running into issues w/ es6 + TS + various libraries - may not have a chance to get back to these in the next few days on my schedule 
